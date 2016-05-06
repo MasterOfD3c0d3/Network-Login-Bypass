@@ -7,4 +7,4 @@ Read file LICENSE
 # Authors & Contributors
 MasterOfD3c0d3
 
-Marcos Apolo THANKS
+Marcos Apolo Flávio Junior THANKS
