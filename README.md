@@ -3,7 +3,7 @@ Search for an authenticated machine in a network with login request, so its IP a
 # Copyright
 License: GPL 3.0
 
-Read file COPYING
+Read file LICENSE
 # Authors & Contributors
 MasterOfD3c0d3
 
