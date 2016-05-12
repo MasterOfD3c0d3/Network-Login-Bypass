@@ -27,12 +27,16 @@
 #
 # Examples:
 #	$ ./network_login_bypass.sh -i wlan0 -r 10.15.16.0/24
+#
 #	BYPASS LOGIN REQUEST FROM NETWORK
 #	---------------------------------
 #
 #	Running!
 #
 #	Please, wait...
+#
+#	Checked IPs from range:
+#	[##................................................] 2%
 #
 # The order of the IP connectivity checks are sequential
 # ------------------------------------------------------
@@ -51,7 +55,7 @@
 #	v0.5 May/2016
 #		- Fixed a typo in range examples
 #		- Bug fixed (Always showing the not connected interface error)
-#		- Added a progress bar (It needs just a few improvement)
+#		- Added a progress bar (It needs just a few improvements)
 #
 # License: GNU General Public License v3.0
 # Download: http://github.com/MasterOfD3c0d3/Network-Login-Bypass
